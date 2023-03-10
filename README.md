@@ -17,6 +17,8 @@ To use this template, follow the following steps:
 * Commit your changes using Git and push them to the remote repository on GitHub.
 ##### Contributing
 This is a personal project and contributions are not expected. However, if you do have suggestions or improvements to make, feel free to fork the repo and submit a pull request.
+##### Authors
+* **Edwin Gichuki** - *Initial work* - [edugichuki](https://github.com/edugichuki)
 ###### License
-This project is licensed under the __**MIT License**__. See the `LICENSE` file for details.
+This project is licensed under the [MIT License] - See the [LICENSE.md](LICENSE.md) file for details.
 Thank you for your interest in my project!
