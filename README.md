@@ -20,5 +20,5 @@ This is a personal project and contributions are not expected. However, if you d
 ##### Authors
 * **Edwin Gichuki** - *Initial work* - [edugichuki](https://github.com/edugichuki)
 ###### License
-This project is licensed under the [MIT License] - See the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [MIT License]: https://opensource.org/licenses/MIT "MIT License" - See the [LICENSE.md](LICENSE.md) file for details.
 Thank you for your interest in my project!
